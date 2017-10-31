@@ -1,0 +1,18 @@
+div.container {margin-top: 30px}
+div.panel-heading {color: #000000; font-size: 150%}
+th  {font-size: large; text-align: center}
+td {font-size: 80%; text-align: center}
+select.form-control { padding: 7px; }
+.btn {
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 14px 28px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+}
+.warning {background-color: #ff9800;} /* Orange */
+.warning:hover {background: #e68a00;}
+.danger {background-color: #f44336;} /* Red */
+.danger:hover {background: #da190b;}
+
+.default {background-color: #e7e7e7; color: black;} /* Gray */
+.default:hover {background: #ddd;}
